@@ -1,2 +1,2 @@
-# C-28
-The Great Slingshot effect.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
